@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "arroz",
+      "description": "no se pasan",
+      "price": 500,
+      "image": "sin imagen",
+      "code": "abc123",
+      "stock": 30
+    },
+    {
+        "id": 2,
+        "title": "fideos",
+        "description": "los mas ricos",
+        "price": 300,
+        "img": "sin imagen",
+        "code": "abc124",
+        "stock": 30
+      }
+  ]
